@@ -37,7 +37,7 @@ function waves(i,j) {
 
       setTimeout(() => {
         circleArray[i][j].classList.remove('grow')
-      }, 300)
+      }, 400)
     }
   }
 }

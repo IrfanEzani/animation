@@ -39,8 +39,10 @@ h1 {
   background-color: #000;
   border-radius: 50%;
   transition: 0.2s linear all;
+  cursor: pointer;
 }
 
 .circle.grow {
   transform: scale(2);
+  background-color: #94ffb3;
 }
